@@ -57,8 +57,8 @@ def main():
     G1 = Generator().cuda()
     # Object Classifier
     C1 = Standard_Classifier(args).cuda()
-    G1.load_state_dict(torch.load('content/DomainToText_AMLProject/outputs/SingleSource_'+sources[0] + '/G.pkl'))
-    C1.load_state_dict(torch.load('content/DomainToText_AMLProject/outputs/SingleSource_'+sources[0] + '/C.pkl'))
+    G1.load_state_dict(torch.load('/content/DomainToText_AMLProject/outputs/SingleSource_'+sources[0] + '/G.pkl'))
+    C1.load_state_dict(torch.load('/content/DomainToText_AMLProject/outputs/SingleSource_'+sources[0] + '/C.pkl'))
 
     print('Model of %s loaded ' % (sources[0]))
 
@@ -86,8 +86,8 @@ def main():
     # Object Classifier
     C3 = Standard_Classifier(args).cuda()
 
-    G3.load_state_dict(torch.load('content/DomainToText_AMLProject/outputs/SingleSource_'+sources[2] + '/G.pkl'))
-    C3.load_state_dict(torch.load('content/DomainToText_AMLProject/outputs/SingleSource_'+sources[2] + '/C.pkl'))
+    G3.load_state_dict(torch.load('/content/DomainToText_AMLProject/outputs/SingleSource_'+sources[2] + '/G.pkl'))
+    C3.load_state_dict(torch.load('/content/DomainToText_AMLProject/outputs/SingleSource_'+sources[2] + '/C.pkl'))
     print('Model of %s loaded ' % (sources[2]))
 
     G3.eval()
@@ -97,7 +97,7 @@ def main():
     ########################### Computation of sources domain embeddings
     vec_dim = 256
     resnet101_texture_model = TripletMatch(vec_dim=vec_dim,distance='cos', img_feats=(2, 4))
-    model_path = 'content/DomainToText_AMLProject/outputs/triplet_match/BEST_checkpoint.pth'
+    model_path = '/content/DomainToText_AMLProject/outputs/triplet_match/BEST_checkpoint.pth'
 
     resnet101_texture_model = resnet101_texture_model.cuda()
     resnet101_texture_model.load_state_dict(torch.load(model_path), strict=False)

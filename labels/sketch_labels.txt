@@ -1,0 +1,1202 @@
+Domain: sketch
+
+1.
+Title: sketch/person/12216.png 6
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+2.
+Title: sketch/person/12224.png 6
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+3.
+Title: sketch/person/12227.png 6
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+4.
+Title: sketch/horse/n02374451_597-2.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+5.
+Title: sketch/horse/8503.png 4
+Level of details: mid-level
+Edges: light lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+6.
+Title: sketch/giraffe/n02439033_15384-3.png 2
+Level of details: low-level
+Edges: marked, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+7.
+Title: sketch/person/12189.png 6
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+8.
+Title: sketch/horse/n02374451_2733-6.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+9.
+Title: sketch/giraffe/n02439033_11599-7.png 2
+Level of details: high-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+10.
+Title: sketch/horse/n02374451_13171-2.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+11.
+Title: sketch/horse/n02374451_16358-1.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+12.
+Title: sketch/elephant/n02503517_4413-3.png 1
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+13.
+Title: sketch/elephant/n02503517_10528-1.png 1
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+14.
+Title: sketch/guitar/n02676566_4605-4.png 3
+Level of details: mid-level
+Edges: irregular, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no 
+
+15.
+Title: sketch/guitar/n02676566_9936-5.png 3
+Level of details: low-level
+Edges: irregular, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+16.
+Title: sketch/guitar/n02676566_3360-3.png 3
+Level of details: mid-level
+Edges: overlapping, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+17.
+Title: sketch/elephant/n02503517_10275-4.png 1
+Level of details: mid-level
+Edges: clean lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+18.
+Title: sketch/giraffe/n02439033_11894-8.png 2
+Level of details: low-level
+Edges: marked, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+19.
+Title: sketch/giraffe/n02439033_9398-4.png 2
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+20.
+Title: sketch/giraffe/n02439033_5652-5.png 2
+Level of details: mid-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+21.
+Title: sketch/elephant/n02503517_4221-7.png 1
+Level of details: low-level
+Edges: partially disconnected, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+22.
+Title: sketch/guitar/n02676566_7844-3.png 3
+Level of details: low-level
+Edges: irregular, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+23.
+Title: sketch/giraffe/n02439033_2677-5.png 2
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+24.
+Title: sketch/horse/n02374451_777-5.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+25.
+Title: sketch/elephant/n02503517_2547-5.png 1
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no 
+
+26.
+Title: sketch/giraffe/n02439033_14962-1.png 2
+Level of details: low-level
+Edges: marked, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+27.
+Title: sketch/horse/8558.png 4
+Level of details: mid-level
+Edges: light lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+28.
+Title: sketch/horse/n02374451_12128-8.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+29.
+Title: sketch/giraffe/7383.png 2
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no 
+
+30.
+Title: sketch/elephant/n02503517_8518-4.png 1
+Level of details: low-level
+Edges: irregular, disconnected lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+31.
+Title: sketch/dog/n02103406_8362-9.png 0
+Level of details: mid-level
+Edges: marked, disconnected, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+32.
+Title: sketch/person/12168.png 6
+Level of details: mid-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+33.
+Title: sketch/guitar/n02676566_6980-5.png 3
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+34.
+Title: sketch/dog/5346.png 0
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+35.
+Title: sketch/giraffe/n02439033_9472-1.png 2
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+36.
+Title: sketch/giraffe/n02439033_9719-1.png 2
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+37.
+Title: sketch/elephant/n02503517_7173-2.png 1
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+38.
+Title: sketch/guitar/n03272010_6152-1.png 3
+Level of details: low-level
+Edges: partially overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+39.
+Title: sketch/dog/n02106662_8511-4.png 0
+Level of details: low-level
+Edges: marked, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+40.
+Title: sketch/giraffe/n02439033_11215-4.png 2
+Level of details: low-level
+Edges: marked, clean lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+41.
+Title: sketch/guitar/n03467517_22871-1.png 3
+Level of details: mid-level
+Edges: irregular, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+42.
+Title: sketch/horse/n02374451_245-2.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+43.
+Title: sketch/elephant/n02503517_8904-3.png 1
+Level of details: mid-level
+Edges: clean lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+44.
+Title: sketch/elephant/n02503517_5418-2.png 1
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+45.
+Title: sketch/person/12082.png 6
+Level of details: mid-level
+Edges: overall light lines, in some areas more marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+46.
+Title: sketch/giraffe/n02439033_9598-3.png 2
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+47.
+Title: sketch/guitar/7606.png 3
+Level of details: mid-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+48.
+Title: sketch/person/12165.png 6
+Level of details: mid-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+49.
+Title: sketch/elephant/n02503517_7083-4.png 1
+Level of details: low-level
+Edges: irregular, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+50.
+Title: sketch/dog/5281.png 0
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+51.
+Title: sketch/guitar/7623.png 3
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+52.
+Title: sketch/elephant/5928.png 1
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+53.
+Title: sketch/elephant/5942.png 1
+Level of details: low-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+54.
+Title: sketch/horse/n02374451_276-8.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+55.
+Title: sketch/dog/n02103406_4068-7.png 0
+Level of details: low-level
+Edges: trembling lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+56.
+Title: sketch/elephant/n02503517_6624-1.png 1
+Level of details: low-level
+Edges: marked, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+57.
+Title: sketch/dog/n02106662_11133-1.png 0
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+58.
+Title: sketch/giraffe/n02439033_11599-8.png 2
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+59.
+Title: sketch/guitar/n02676566_8618-1.png 3
+Level of details: mid-level
+Edges: overlapping, clean lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+60.
+Title: sketch/house/8868.png 5
+Level of details: low-level
+Edges: light, irregular, partially overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+61.
+Title: sketch/elephant/n02503517_3108-4.png 1
+Level of details: low-level
+Edges: irregular, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+62.
+Title: sketch/horse/n02374451_16358-3.png 4
+Level of details: mid-level
+Edges: marked, disconnected lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+63.
+Title: sketch/giraffe/n02439033_9472-3.png 2
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+64.
+Title: sketch/horse/n02374451_1340-11.png 4
+Level of details: low-level
+Edges: marked, clean lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+65.
+Title: sketch/horse/n02374451_779-6.png 4
+Level of details: mid-level
+Edges: marked, clean lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+66.
+Title: sketch/dog/n02103406_936-6.png 0
+Level of details: mid-level
+Edges: clean lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+67.
+Title: sketch/giraffe/n02439033_11273-2.png 2
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+68.
+Title: sketch/elephant/n02503517_311-6.png 1
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+69.
+Title: sketch/giraffe/n02439033_221-3.png 2
+Level of details: mid-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+70.
+Title: sketch/elephant/n02503517_6232-2.png 1
+Level of details: low-level
+Edges: marked, partially disconnected lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+71.
+Title: sketch/guitar/n02676566_2380-4.png 3
+Level of details: low-level
+Edges: overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+72.
+Title: sketch/dog/n02103406_6688-7.png 0
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+73.
+Title: sketch/elephant/n02503517_9154-5.png 1
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+74.
+Title: sketch/elephant/5977.png 1
+Level of details: mid-level
+Edges: light, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+75.
+Title: sketch/horse/n02374451_3388-4.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+76.
+Title: sketch/elephant/n02503517_5117-6.png 1
+Level of details: low-level
+Edges: irregular, overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+77.
+Title: sketch/giraffe/n02439033_12485-4.png 2
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no 
+
+78.
+Title: sketch/giraffe/n02439033_15479-4.png 2
+Level of details: low-level
+Edges: marked, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+79.
+Title: sketch/dog/n02106662_8870-4.png 0
+Level of details: low-level
+Edges: overall straight, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+80.
+Title: sketch/horse/n02374451_10761-6.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+81.
+Title: sketch/giraffe/n02439033_9398-2.png 2
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+82.
+Title: sketch/guitar/n02676566_4058-3.png 3
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+83.
+Title: sketch/guitar/n02676566_8997-5.png 3
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+84.
+Title: sketch/horse/n02374451_4963-1.png 4
+Level of details: mid-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+85.
+Title: sketch/guitar/n02676566_4699-3.png 3
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+86.
+Title: sketch/horse/n02374451_4795-3.png 4
+Level of details: low-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+87.
+Title: sketch/giraffe/n02439033_14121-2.png 2
+Level of details: low-level
+Edges: marked, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no 
+
+88.
+Title: sketch/giraffe/n02439033_14872-5.png 2
+Level of details: mid-level
+Edges: marked lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+89.
+Title: sketch/guitar/7666.png 3
+Level of details: low-level
+Edges: light, disconnected, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+90.
+Title: sketch/elephant/n02503517_9237-5.png 1
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+91.
+Title: sketch/horse/n02374451_18909-6.png 4
+Level of details: mid-level
+Edges: marked, disconnected lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+92.
+Title: sketch/giraffe/n02439033_11504-7.png 2
+Level of details: mid-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+93.
+Title: sketch/guitar/n02676566_8997-1.png 3
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+94.
+Title: sketch/horse/n02374451_13159-6.png 4
+Level of details: mid-level
+Edges: marked, clean lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+95.
+Title: sketch/dog/n02103406_3056-3.png 0
+Level of details: low-level
+Edges: irregular, partially overlapping lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+96.
+Title: sketch/guitar/7673.png 3
+Level of details: low-level
+Edges: light, both irregular and straight lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+97.
+Title: sketch/dog/n02103406_7368-4.png 0
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+98.
+Title: sketch/dog/n02109525_704-5.png 0
+Level of details: low-level
+Edges: irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+99.
+Title: sketch/elephant/5976.png 1
+Level of details: low-level
+Edges: light, overlapping, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+
+100.
+Title: sketch/dog/n02103406_4582-2.png 0
+Level of details: mid-level
+Edges: disconnected, irregular lines
+Color saturation: no colors
+Color shades: no
+Background: no
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no
+

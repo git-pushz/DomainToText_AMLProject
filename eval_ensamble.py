@@ -71,8 +71,8 @@ def main():
     G2 = Generator().cuda()
     # Object Classifier
     C2 = Standard_Classifier(args).cuda()
-    G2.load_state_dict(torch.load('content/DomainToText_AMLProject/outputs/SingleSource_'+sources[1] + '/G.pkl'))
-    C2.load_state_dict(torch.load('content/DomainToText_AMLProject/outputs/SingleSource_'+sources[1] + '/C.pkl'))
+    G2.load_state_dict(torch.load('/content/DomainToText_AMLProject/outputs/SingleSource_'+sources[1] + '/G.pkl'))
+    C2.load_state_dict(torch.load('/content/DomainToText_AMLProject/outputs/SingleSource_'+sources[1] + '/C.pkl'))
 
     print('Model of %s loaded ' % (sources[1]))
 

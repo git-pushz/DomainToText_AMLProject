@@ -1,0 +1,1202 @@
+Domain: cartoon
+
+1.
+Title: cartoon/elephant/pic_427.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+2.
+Title: cartoon/elephant/pic_177.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no, unrealistic 
+
+3.
+Title: cartoon/house/pic_264.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: high
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse and not relevant
+Texture: no
+Perspective: 
+
+4.
+Title: cartoon/horse/pic_076.jpg 4
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+5.
+Title: cartoon/person/pic_297.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: no, two instances
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+6.
+Title: cartoon/dog/pic_369.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+7.
+Title: cartoon/horse/pic_041.jpg 4
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, grayscale
+Background: pale-green colored
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+8.
+Title: cartoon/house/pic_083.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid, light reflections
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+9.
+Title: cartoon/dog/pic_222.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, grayscale
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+10.
+Title: cartoon/horse/pic_092.jpg 4
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+11.
+Title: cartoon/guitar/pic_072.jpg 3
+Level of details: low-level
+Edges: wavy lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no. unrealistic
+
+12.
+Title: cartoon/elephant/pic_082.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid, light-reflections
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+13.
+Title: cartoon/person/pic_405.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: white
+Single instance: no, two instances
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+ 
+14.
+Title: cartoon/person/pic_080.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+15.
+Title: cartoon/person/pic_382.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white and two illustration boxes
+Single instance: no, four instances
+Text: yes
+Texture: no
+Perspective: no, unrealistic
+
+16.
+Title: cartoon/giraffe/pic_256.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+17.
+Title: cartoon/giraffe/pic_306.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+18.
+Title: cartoon/dog/pic_419.jpg 0
+Level of details: low-level
+Edges: precise, squared lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: shades of purple
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+19.
+Title: cartoon/house/pic_238.jpg 5
+Level of details: low-level
+Edges: precise squared lines
+Color saturation: mid
+Color shades: no
+Background: light blue sky
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+20.
+Title: cartoon/dog/pic_102.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low, reflections
+Color shades: yes
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+21.
+Title: cartoon/horse/pic_088.jpg 4
+Level of details: low-level
+Edges: sketched lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: yes
+
+22.
+Title: cartoon/giraffe/pic_202.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid, light reflections
+Color shades: yes
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+23.
+Title: cartoon/giraffe/pic_367.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: high
+Color shades: yes, colorful
+Background: green grass and blue sky
+Single instance: yes
+Text: yes, dense
+Texture: no
+Perspective: no, unrealistic
+
+24.
+Title: cartoon/elephant/pic_118.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, grayscale
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+25.
+Title: cartoon/house/pic_006.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: light blue sky
+Single instance: yes
+Text: no
+Texture: no
+Perspective: yes
+
+26.
+Title: cartoon/guitar/pic_030.jpg 3
+Level of details: high-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: yes
+
+27.
+Title: cartoon/house/pic_224.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: high
+Color shades: yes, colorful
+Background: green grass and blue sky
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+28.
+Title: cartoon/giraffe/pic_153.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+29.
+Title: cartoon/horse/pic_320.jpg 4
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: purple shades
+Single instance: no, seven instances
+Text: yes, dense
+Texture: no
+Perspective: no, unrealistic
+
+30.
+Title: cartoon/giraffe/pic_194.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: blue sky
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+31.
+Title: cartoon/house/pic_185.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: low, reflections
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+32.
+Title: cartoon/person/pic_279.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+33.
+Title: cartoon/person/pic_072.jpg 6
+Level of details: low-level
+Edges: precise thick lines
+Color saturation: mid, light reflections
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no, unrealistic 
+
+34.
+Title: cartoon/horse/pic_327.jpg 4
+Level of details: low-level
+Edges: uncertain lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: yes
+
+35.
+Title: cartoon/person/pic_215.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, dense
+Texture: no
+Perspective: no, unrealistic
+
+36.
+Title: cartoon/horse/pic_204.jpg 4
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+37.
+Title: cartoon/giraffe/pic_015.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, grayscale
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+38.
+Title: cartoon/dog/pic_178.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low, light reflections
+Color shades: yes
+Background: white
+Single instance: yes
+Text: yes, dense
+Texture: no
+Perspective: no, unrealistic
+
+39.
+Title: cartoon/guitar/pic_029.jpg 3
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+40.
+Title: cartoon/person/pic_294.jpg 6
+Level of details: low-level
+Edges: precise thick lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+41.
+Title: cartoon/dog/pic_214.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+42.
+Title: cartoon/person/pic_393.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: six gray boxes
+Single instance: no, six instances
+Text: yes, dense
+Texture: no
+Perspective: no, unrealistic
+
+43.
+Title: cartoon/elephant/pic_405.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: high, reflections
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+44.
+Title: cartoon/person/pic_008.jpg 6
+Level of details: low-level
+Edges: precise thick lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: blue and white contour
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+45.
+Title: cartoon/elephant/pic_077.jpg 1
+Level of details: low-level
+Edges: precise thick lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+46.
+Title: cartoon/person/pic_455.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white with objects
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+47.
+Title: cartoon/dog/pic_103.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful 
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+48.
+Title: cartoon/house/pic_014.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: yes
+
+49.
+Title: cartoon/giraffe/pic_165.jpg 2
+Level of details: low-level
+Edges: precise thick lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+50.
+Title: cartoon/house/pic_273.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, dense
+Texture: no
+Perspective: no, unrealistic
+
+51.
+Title: cartoon/dog/pic_156.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no, unrealistic 
+
+52.
+Title: cartoon/person/pic_229.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+53.
+Title: cartoon/person/pic_023.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+54.
+Title: cartoon/person/pic_188.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+55.
+Title: cartoon/dog/pic_390.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low, light reflections
+Color shades: yes, colorful 
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+56.
+Title: cartoon/elephant/pic_305.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic 
+
+57.
+Title: cartoon/house/pic_171.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid, light reflections
+Color shades: yes
+Background: light-blue sky and green grass
+Single instance: yes
+Text: no
+Texture: no 
+Perspective: no, unrealistic 
+
+58.
+Title: cartoon/giraffe/pic_327.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: yellow and green
+Single instance: yes
+Text: yes, sparse
+Texture: yes, pencil strokes
+Perspective: no, unrealistic
+
+59.
+Title: cartoon/giraffe/pic_087.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance:
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+60.
+Title: cartoon/house/pic_306.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: green grass and blue sky
+Single instance: no, 14 instances
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+61.
+Title: cartoon/giraffe/pic_065.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: high
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+62.
+Title: cartoon/person/pic_354.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: blue sky and green pines
+Single instance: no, 2 instances
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+63.
+Title: cartoon/giraffe/pic_275.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+64.
+Title: cartoon/horse/pic_054.jpg 4
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid, reflections
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+65.
+Title: cartoon/giraffe/pic_216.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+66.
+Title: cartoon/guitar/pic_033.jpg 3
+Level of details: low-level
+Edges: precise curvy lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+67.
+Title: cartoon/elephant/pic_212.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: no, 4 instances
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+68.
+Title: cartoon/person/pic_047.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+69.
+Title: cartoon/elephant/pic_444.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, grayscale
+Background: white
+Single instance: no, 3 instances
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+70.
+Title: cartoon/person/pic_249.jpg 6
+Level of details: low-level
+Edges: precise thick lines
+Color saturation: low
+Color shades: no
+Background: pale-yellow
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+71.
+Title: cartoon/dog/pic_064.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+72.
+Title: cartoon/house/pic_028.jpg 5
+Level of details: low-level
+Edges: precise, thick and curvy lines
+Color saturation: high, reflections
+Color shades: yes, colorful
+Background: white
+Single instance: no, 2 instances
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+73.
+Title: cartoon/elephant/pic_156.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid, reflections
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+74.
+Title: cartoon/giraffe/pic_124.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: green shades and pale-yellow
+Single instance: no, 2 instances
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+75.
+Title: cartoon/dog/pic_282.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: high
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+76.
+Title: cartoon/guitar/pic_103.jpg 3
+Level of details: mid-level
+Edges: precise lines
+Color saturation: low, light reflections
+Color shades: yes
+Background: pale green
+Single instance: yes
+Text: no
+Texture: no
+Perspective: yes
+
+77.
+Title: cartoon/house/pic_123.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: white sky and green grass
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+78.
+Title: cartoon/house/pic_354.jpg 5
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+79.
+Title: cartoon/person/pic_024.jpg 6
+Level of details: low-level
+Edges: precise white thick lines
+Color saturation: low
+Color shades: no
+Background: cream colored
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+80.
+Title: cartoon/dog/pic_337.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: sandy brown
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+81.
+Title: cartoon/guitar/pic_133.jpg 3
+Level of details: low-level
+Edges: thick uneven lines
+Color saturation: low
+Color shades: yes, colorful
+Background: pink
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+82.
+Title: cartoon/person/pic_430.jpg 6
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: no, 8 instances
+Text: yes, dense
+Texture: no
+Perspective: no, unrealistic 
+
+83.
+Title: cartoon/giraffe/pic_029.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+84.
+Title: cartoon/dog/pic_309.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse 
+Texture: no
+Perspective: no, unrealistic
+
+85.
+Title: cartoon/dog/pic_295.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+86.
+Title: cartoon/elephant/pic_383.jpg 1
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+87.
+Title: cartoon/giraffe/pic_149.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+88.
+Title: cartoon/guitar/pic_075.jpg 3
+Level of details: low-level
+Edges: precise lines
+Color saturation: low, reflections
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+89.
+Title: cartoon/guitar/pic_069.jpg 3
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+90.
+Title: cartoon/giraffe/pic_061.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful 
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+91.
+Title: cartoon/dog/pic_293.jpg 0
+Level of details: low-level
+Edges: non-continuous lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+92.
+Title: cartoon/dog/pic_213.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low, light reflections
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+93.
+Title: cartoon/giraffe/pic_248.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: yes, colorful
+Background: white
+Single instance: no, 5 instances
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+94.
+Title: cartoon/dog/pic_352.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+95.
+Title: cartoon/dog/pic_257.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+96.
+Title: cartoon/giraffe/pic_340.jpg 2
+Level of details: low-level
+Edges: precise lines
+Color saturation: mid
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+97.
+Title: cartoon/dog/pic_200.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: low, light reflections
+Color shades: yes, colorful
+Background: white
+Single instance: yes
+Text: yes, sparse
+Texture: no
+Perspective: no, unrealistic
+
+98.
+Title: cartoon/horse/pic_362.jpg 4
+Level of details: low-level
+Edges: precise lines
+Color saturation: high
+Color shades: no
+Background: blue
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+99.
+Title: cartoon/dog/pic_216.jpg 0
+Level of details: low-level
+Edges: precise lines
+Color saturation: high
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+100.
+Title: cartoon/horse/pic_112.jpg 4
+Level of details: low-level
+Edges: precise lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+

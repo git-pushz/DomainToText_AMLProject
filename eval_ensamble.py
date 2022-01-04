@@ -45,6 +45,7 @@ def main():
     target_txt = args.path_to_txt + '/' + args.target + '.txt'
 
     # dataloaders creation
+    # read target (test) data and apply pre-processing
     dataset_test_target = dataset_read_eval(target_txt, args)
 
     sources = ['ArtPainting','Cartoon','Photo','Sketch']
@@ -57,10 +58,16 @@ def main():
     G1 = Generator().cuda()
     # Object Classifier
     C1 = Standard_Classifier(args).cuda()
+    # A state_dict is simply a Python dictionary object that maps each layer to its parameter tensor
     G1.load_state_dict(torch.load('/content/DomainToText_AMLProject/outputs/SingleSource_'+sources[0] + '/G.pkl'))
     C1.load_state_dict(torch.load('/content/DomainToText_AMLProject/outputs/SingleSource_'+sources[0] + '/C.pkl'))
 
     print('Model of %s loaded ' % (sources[0]))
+
+    # model.eval() is a kind of switch for some specific layers/parts of the model that 
+    # behave differently during training and inference (evaluating) time. For example, 
+    # Dropouts Layers, BatchNorm Layers etc. You need to turn off them during model evaluation,
+    # and .eval() will do it for you
 
     G1.eval()
     C1.eval()
@@ -113,6 +120,8 @@ def main():
 
         source_txt = args.path_to_txt + '/' + source + '.txt'
         dataset_source = dataset_read_eval(source_txt, args)
+        # the common practice for evaluating/validation is using torch.no_grad()
+        # in pair with model.eval() to turn off gradients computation
         with torch.no_grad():
             for it, (img, label) in enumerate(tqdm(dataset_source)):
                 img, label = img.cuda(),label.long().cuda()

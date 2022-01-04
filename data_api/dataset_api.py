@@ -6,8 +6,8 @@ import numpy as np
 from PIL import Image
 from torch.utils.data import Dataset
 
-data_path = 'data_api/data'
-img_path = 'data_api/data/images'
+data_path = '/content/DomainToText_AMLProject/data_api/data'
+img_path = '/content/DomainToText_AMLProject/PACS/kfold'
 
 
 class TextureDescriptionData:

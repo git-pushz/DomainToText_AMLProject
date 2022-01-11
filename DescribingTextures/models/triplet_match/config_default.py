@@ -3,9 +3,9 @@ from yacs.config import CfgNode as CN
 C = CN()
 C.DEVICE = 'cuda'
 C.RAND_SEED = 2020
-C.OUTPUT_PATH = 'output/triplet_match/temp'
+C.OUTPUT_PATH = '/content/DomainToText_AMLProject/DescribingTextures/output/triplet_match/temp'
 C.TRAIN_SPLIT = 'train'
-C.EVAL_SPLIT = 'val'
+C.EVAL_SPLIT = 'train' # 'val'
 
 C.LOAD_WEIGHTS = ''
 C.INIT_WORD_EMBED = 'fast_text'  # rand / fast_text
@@ -15,7 +15,7 @@ C.LANG_INPUT = 'phrase'  # description
 C.MODEL = CN()
 C.MODEL.VEC_DIM = 256
 C.MODEL.IMG_FEATS = (2, 4)
-C.MODEL.LANG_ENCODER = 'mean'
+C.MODEL.LANG_ENCODER = 'bert' # 'mean'
 C.MODEL.DISTANCE = 'l2_s'  # l2, cos
 
 # config for loss
@@ -26,7 +26,7 @@ C.LOSS.IMG_SENT_WEIGHTS = (1.0, 1.0)
 # config for training
 C.TRAIN = CN()
 C.TRAIN.TUNE_RESNET = True
-C.TRAIN.TUNE_LANG_ENCODER = True
+C.TRAIN.TUNE_LANG_ENCODER = False # True
 C.TRAIN.BATCH_SIZE = 16
 C.TRAIN.MAX_EPOCH = 6
 C.TRAIN.CHECKPOINT_EVERY_EPOCH = 0.5

@@ -3,6 +3,8 @@ import os
 import random
 import time
 import numpy as np
+import sys
+sys.path.append('/content/DomainToText_AMLProject/DescribingTextures')
 # from tqdm import tqdm
 from distutils.dir_util import copy_tree
 

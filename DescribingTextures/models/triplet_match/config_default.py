@@ -7,7 +7,7 @@ C.OUTPUT_PATH = '/content/DomainToText_AMLProject/DescribingTextures/output/trip
 C.TRAIN_SPLIT = 'train'
 C.EVAL_SPLIT = 'train' # 'val'
 
-C.LOAD_WEIGHTS = '/content/DomainToText_AMLProject/DescribingTextures/outputs/triplet_match/BEST_checkpoint.pth'
+C.LOAD_WEIGHTS = '/content/DomainToText_AMLProject/outputs/triplet_match/BEST_checkpoint.pth'
 C.INIT_WORD_EMBED = 'fast_text'  # rand / fast_text
 C.LANG_INPUT = 'phrase'  # description
 

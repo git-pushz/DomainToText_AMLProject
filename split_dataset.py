@@ -10,19 +10,20 @@ for d in data:
 
 random.shuffle(data_names)
 
-n_train = int(len(data_names)*0.6)
-n_val = int(len(data_names)*0.15)
+# n_train = int(len(data_names)*0.6)
+# n_val = int(len(data_names)*0.15)
 
-train = data_names[:n_train]
+# train = data_names[:n_train]
 
-val = data_names[n_train:n_train+n_val]
+# val = data_names[n_train:n_train+n_val]
 
-test = data_names[n_train+n_val:]
+# test = data_names[n_train+n_val:]
 
 split_data = {}
-split_data['train'] = train
-split_data['val'] = val
-split_data['test'] = test
+split_data['train'] = data_names
+# split_data['train'] = train
+# split_data['val'] = val
+# split_data['test'] = test
 
 with open("image_splits.json", "w") as write_file:
     json.dump(split_data, write_file)

@@ -1,7 +1,10 @@
-# Advanced Machine Learning Project 4 - Domain-To-Text: improving Domain Generalization using Natural Language
+# Advanced Machine Learning Project 4 
+## Domain-To-Text: improving Domain Generalization using Natural Language
 
 Pietro Borgaro: s292501
+
 Lorenzo Cravero: s290265
+
 Roberto Torta: s290184
 
 Colab Project:

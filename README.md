@@ -1,4 +1,4 @@
-# Advanced Machine Learning Project 4 
+# Advanced Machine Learning - Project 4 
 ## Domain-To-Text: improving Domain Generalization using Natural Language
 
 Pietro Borgaro: s292501

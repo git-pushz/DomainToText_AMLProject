@@ -7,9 +7,9 @@ C.OUTPUT_PATH = '/content/DomainToText_AMLProject/DescribingTextures/output/trip
 C.TRAIN_SPLIT = 'train'
 C.EVAL_SPLIT = 'train' # 'val'
 
-C.LOAD_WEIGHTS = '' #'/content/DomainToText_AMLProject/outputs/triplet_match/BEST_checkpoint.pth'
+C.LOAD_WEIGHTS = '/content/DomainToText_AMLProject/outputs/triplet_match/BEST_checkpoint.pth'
 C.INIT_WORD_EMBED = 'fast_text'  # rand / fast_text
-C.LANG_INPUT = 'phrase'  # description
+C.LANG_INPUT = 'description'  # phrase
 
 # config for model
 C.MODEL = CN()
@@ -36,7 +36,7 @@ C.TRAIN.WEIGHT_DECAY = 1e-6
 C.TRAIN.INIT_LR = 0.0001
 C.TRAIN.LR_DECAY_GAMMA = 0.1
 C.TRAIN.LR_DECAY_EVAL_COUNT = 10
-C.TRAIN.EARLY_STOP_EVAL_COUNT = 4000
+C.TRAIN.EARLY_STOP_EVAL_COUNT = 40
 
 
 # settings for Adam
